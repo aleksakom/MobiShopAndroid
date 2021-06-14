@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "659072408495",
+    "project_id": "shopm-c3ea1",
+    "storage_bucket": "shopm-c3ea1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659072408495:android:c0df0d01403535af4fad5a",
+        "android_client_info": {
+          "package_name": "com.example.shopm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "659072408495-c4rhoo0b6ro33b33r3aab5aoiqrdq8l6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shopm",
+            "certificate_hash": "0936048f4c590d86add1cebcee01ac736e6fb95b"
+          }
+        },
+        {
+          "client_id": "659072408495-kepvth157dnnr7i4ibgm36ig8gbe1i1r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBXjrVQR8xax2Wq7XCobJ6PTPZ7HzSbTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "659072408495-kepvth157dnnr7i4ibgm36ig8gbe1i1r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
